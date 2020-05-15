@@ -1,5 +1,7 @@
 ![Verminal for iterm](screenshot.png)
 
+[🇰🇷한국어](README-KO.md)
+
 # Verminal for Iterm2
 
 This is Iterm2 color scheme that inspired by [Verminal](https://github.com/defringe/verminal) and [Therminal](https://github.com/stleamist/Therminal)
